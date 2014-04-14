@@ -6,7 +6,8 @@
       "handlebar-helpers": {},
       "iron-router-progress": {},
       "semantic-ui": {},
-      "collection2": {}
+      "collection2": {},
+      "typescript-compiler": {}
     },
     "packages": {
       "iron-router": {
@@ -21,8 +22,8 @@
       },
       "iron-router-progress": {
         "git": "https://github.com/Multiply/iron-router-progress.git",
-        "tag": "v0.3.0",
-        "commit": "5761294b1530d1c48a311d7e06421d563e5b45e5"
+        "tag": "v0.3.1",
+        "commit": "3f7900feb4bb70a1289b39a1fdcd1f438c0335b3"
       },
       "semantic-ui": {
         "git": "https://github.com/nooitaf/meteor-semantic-ui.git",
@@ -34,6 +35,11 @@
         "tag": "v0.3.11",
         "commit": "7e970671305657678e8508d8107d5e6c5e158559"
       },
+      "typescript-compiler": {
+        "git": "https://github.com/orefalo/meteor-typescript-compiler.git",
+        "tag": "v0.7.7.2",
+        "commit": "2c1525e95f1f061674951fc7c807f77295b66fc6"
+      },
       "blaze-layout": {
         "git": "https://github.com/EventedMind/blaze-layout.git",
         "tag": "v0.2.2",
@@ -41,8 +47,8 @@
       },
       "simple-schema": {
         "git": "https://github.com/aldeed/meteor-simple-schema.git",
-        "tag": "v0.2.45",
-        "commit": "27a5a943a70a7376c90f18d2e2a4a122c6fc73fb"
+        "tag": "v0.2.47",
+        "commit": "d97bf419498efb560771e94a8a3e2c92db33d06d"
       }
     }
   }
