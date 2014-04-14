@@ -1,8 +1,4 @@
 Router.configure
-  layoutTemplate: 'basicLayout'
+  layoutTemplate: 'layout'
   notFoundTemplate: 'notFound'
-  yieldTemplates:
-    header:
-      to: 'header'
-    footer:
-      to: 'footer'
+  yieldTemplates: {}
