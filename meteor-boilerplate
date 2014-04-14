@@ -140,7 +140,7 @@ case ${1} in
 
         # Create folder
         mkdir -p model
-	mkdir -p server/publications
+	      mkdir -p server/publications
         mkdir -p client/subscriptions
 
         # Create file
